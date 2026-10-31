@@ -8,6 +8,31 @@
 
 **[Lihat analisis dalam bahasa Inggris](https://563teb.com/en?utm_source=github_readme_id) · [Situs bahasa Mandarin](https://563teb.com/zh?utm_source=github_readme_id_alt) · [Pembaruan Telegram](https://t.me/teb5633)**
 
+## Tingkat keberhasilan rekomendasi terkini
+
+Cuplikan dasbor resmi untuk 26 Oktober–1 November 2026. Situs menandai pembaruan data pada 1 November pukul 00:06 waktu Beijing. Angka keberhasilan disertai jumlah benar dan catatan pasar valid yang sudah diselesaikan.
+
+![Perbandingan yang disusun dari data dasbor resmi.](assets/recommendation-rates-20261101.png)
+
+Perbandingan yang disusun dari data dasbor resmi.
+
+| Kelompok / pasar | Keberhasilan | Benar / catatan valid |
+| --- | --- | --- |
+| Keyakinan tinggi · hanya 1X2 | 80.0% | 16/20 |
+| Rekomendasi unggulan · semua pasar | 67.2% | 39/58 |
+| Semua rekomendasi · semua pasar | 62.2% | 125/201 |
+| Semua · 1X2 | 62.0% | 49/79 |
+| Semua · handicap Asia | 60.6% | 40/66 |
+| Semua · total gol | 64.3% | 36/56 |
+| Unggulan · 1X2 | 69.4% | 34/49 |
+| Unggulan · handicap Asia | 55.6% | 5/9 |
+
+Ini adalah hasil historis bertanggal, bukan jaminan tingkat keberhasilan mendatang. Kelompok dapat tumpang tindih dan tidak boleh dijumlahkan. Lihat data terbaru di dasbor resmi.
+
+![Tangkapan layar dasbor rekomendasi unggulan resmi: 39/58 (67.2%); antarmuka asli berbahasa Mandarin.](assets/featured-dashboard-20261101.jpg)
+
+Tangkapan layar dasbor rekomendasi unggulan resmi: 39/58 (67.2%); antarmuka asli berbahasa Mandarin.
+
 ## Hasil analisis apa yang bisa dilihat?
 
 - Hasil pertandingan (1X2): tuan rumah menang, seri, atau tim tamu menang.
@@ -44,9 +69,9 @@ Statistik berubah setelah hasil pertandingan diselesaikan. Performa masa lalu ti
 
 Ini adalah pengantar produk dalam bahasa Indonesia. Situs mendukung bahasa Inggris dan Mandarin. Laporan yang tersedia, akses anggota, dan harga terkini tercantum di situs resmi. Gunakan kontak situs untuk pertanyaan akun atau layanan.
 
-## Catatan dan isi repositori
+## Catatan penting
 
-Analisis berbasis model ditujukan untuk penelitian data olahraga dan informasi; tidak menjamin hasil atau keuntungan. Repositori ini hanya memuat pengantar produk publik dan tautan bahasa. Kode aplikasi, implementasi model, kredensial, dan data pelanggan tidak dibagikan di sini.
+Analisis berbasis model ditujukan untuk penelitian data olahraga dan informasi; tidak menjamin hasil atau keuntungan.
 
 ---
 

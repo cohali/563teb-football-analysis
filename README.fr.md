@@ -8,6 +8,31 @@
 
 **[Voir les analyses en anglais](https://563teb.com/en?utm_source=github_readme_fr) · [Site en chinois](https://563teb.com/zh?utm_source=github_readme_fr_alt) · [Actualités sur Telegram](https://t.me/teb5633)**
 
+## Taux de réussite récents
+
+Données du tableau officiel du 26 octobre au 1er novembre 2026. Le site indique une mise à jour le 1er novembre à 00 h 06, heure de Pékin. Les réussites et le nombre de cas valides réglés sont affichés ensemble.
+
+![Comparaison réalisée à partir du tableau de bord officiel.](assets/recommendation-rates-20261101.png)
+
+Comparaison réalisée à partir du tableau de bord officiel.
+
+| Groupe / marché | Réussite | Réussites / cas valides |
+| --- | --- | --- |
+| Forte conviction · 1X2 seulement | 80.0% | 16/20 |
+| Recommandations mises en avant · total | 67.2% | 39/58 |
+| Toutes les recommandations · total | 62.2% | 125/201 |
+| Toutes · 1X2 | 62.0% | 49/79 |
+| Toutes · handicap asiatique | 60.6% | 40/66 |
+| Toutes · total de buts | 64.3% | 36/56 |
+| Mises en avant · 1X2 | 69.4% | 34/49 |
+| Mises en avant · handicap asiatique | 55.6% | 5/9 |
+
+Il s’agit d’un historique daté, pas d’un taux futur garanti. Les groupes peuvent se chevaucher et ne doivent pas être additionnés. Consultez les données actuelles sur le tableau officiel.
+
+![Capture officielle des recommandations mises en avant : 39/58 (67.2 %) ; interface originale en chinois.](assets/featured-dashboard-20261101.jpg)
+
+Capture officielle des recommandations mises en avant : 39/58 (67.2 %) ; interface originale en chinois.
+
 ## Quelles conclusions peut-on consulter ?
 
 - Résultat du match (1X2) : victoire à domicile, nul ou victoire à l’extérieur.
@@ -44,9 +69,9 @@ Les statistiques évoluent après le règlement des matchs. Les résultats pass�
 
 Cette page est une présentation en français. Le site propose l’anglais et le chinois. Les rapports accessibles, les droits des membres et les tarifs actuels sont indiqués sur le site officiel. Utilisez ses contacts pour les questions de compte ou de service.
 
-## Contexte et contenu du dépôt
+## Informations importantes
 
-Les analyses sont générées par des modèles pour la recherche sur les données sportives et l’information ; elles ne garantissent aucun résultat ni gain. Ce dépôt contient uniquement des présentations publiques et des liens de langue, sans code de l’application, implémentation du modèle, identifiants secrets ni données clients.
+Les analyses sont générées par des modèles pour la recherche sur les données sportives et l’information ; elles ne garantissent aucun résultat ni gain.
 
 ---
 

@@ -8,6 +8,31 @@
 
 **[Ver análisis en inglés](https://563teb.com/en?utm_source=github_readme_es) · [Sitio en chino](https://563teb.com/zh?utm_source=github_readme_es_alt) · [Novedades en Telegram](https://t.me/teb5633)**
 
+## Porcentajes recientes de acierto
+
+Datos del panel oficial del 26 de octubre al 1 de noviembre de 2026. La web indica actualización el 1 de noviembre a las 00:06, hora de Pekín. Se muestran aciertos y registros válidos ya liquidados.
+
+![Comparación elaborada con los datos del panel oficial.](assets/recommendation-rates-20261101.png)
+
+Comparación elaborada con los datos del panel oficial.
+
+| Grupo / mercado | Acierto | Aciertos / registros válidos |
+| --- | --- | --- |
+| Alta convicción · solo 1X2 | 80.0% | 16/20 |
+| Recomendaciones destacadas · total | 67.2% | 39/58 |
+| Todas las recomendaciones · total | 62.2% | 125/201 |
+| Todas · 1X2 | 62.0% | 49/79 |
+| Todas · hándicap asiático | 60.6% | 40/66 |
+| Todas · total de goles | 64.3% | 36/56 |
+| Destacadas · 1X2 | 69.4% | 34/49 |
+| Destacadas · hándicap asiático | 55.6% | 5/9 |
+
+Es un registro histórico fechado, no una tasa futura garantizada. Los grupos pueden solaparse y no deben sumarse. Consulta el panel oficial para ver los datos actuales.
+
+![Captura del panel de recomendaciones destacadas: 39/58 (67.2%); interfaz original en chino.](assets/featured-dashboard-20261101.jpg)
+
+Captura del panel de recomendaciones destacadas: 39/58 (67.2%); interfaz original en chino.
+
 ## Qué resultados del análisis puedes consultar
 
 - Resultado del partido (1X2): victoria local, empate o victoria visitante.
@@ -44,9 +69,9 @@ Los datos cambian cuando se liquidan los partidos. El rendimiento pasado no gara
 
 Esta página es la presentación en español. La web ofrece inglés y chino. Los informes disponibles, el acceso de membresía y los precios vigentes se indican en el sitio oficial. Utiliza sus opciones de contacto para consultas sobre la cuenta o el servicio.
 
-## Información importante y repositorio
+## Información importante
 
-El contenido se genera mediante modelos para investigación de datos deportivos y consulta informativa; no garantiza resultados ni beneficios. Este repositorio contiene únicamente información pública del producto y navegación por idiomas. No distribuye código de la aplicación, implementación del modelo, credenciales ni datos de clientes.
+El contenido se genera mediante modelos para investigación de datos deportivos y consulta informativa; no garantiza resultados ni beneficios.
 
 ---
 

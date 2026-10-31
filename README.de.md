@@ -8,6 +8,31 @@
 
 **[Analysen auf Englisch ansehen](https://563teb.com/en?utm_source=github_readme_de) · [Chinesische Website](https://563teb.com/zh?utm_source=github_readme_de_alt) · [Neuigkeiten auf Telegram](https://t.me/teb5633)**
 
+## Aktuelle historische Trefferquoten
+
+Stand des offiziellen Dashboards für den 26. Oktober bis 1. November 2026. Datenstand laut Website: 1. November, 00:06 Uhr Pekinger Zeit. Angezeigt werden Treffer und gültige, bereits ausgewertete Marktdatensätze.
+
+![Vergleich auf Grundlage des offiziellen Dashboards.](assets/recommendation-rates-20261101.png)
+
+Vergleich auf Grundlage des offiziellen Dashboards.
+
+| Gruppe / Markt | Trefferquote | Treffer / gültige Fälle |
+| --- | --- | --- |
+| Hohe Überzeugung · nur 1X2 | 80.0% | 16/20 |
+| Hervorgehobene Empfehlungen · gesamt | 67.2% | 39/58 |
+| Alle Empfehlungen · gesamt | 62.2% | 125/201 |
+| Alle · 1X2 | 62.0% | 49/79 |
+| Alle · asiatisches Handicap | 60.6% | 40/66 |
+| Alle · Gesamttore | 64.3% | 36/56 |
+| Hervorgehoben · 1X2 | 69.4% | 34/49 |
+| Hervorgehoben · asiatisches Handicap | 55.6% | 5/9 |
+
+Dies ist eine datierte historische Momentaufnahme und keine garantierte künftige Quote. Gruppen können sich überschneiden und dürfen nicht addiert werden. Aktuelle Zahlen stehen im offiziellen Dashboard.
+
+![Offizielles Dashboard der hervorgehobenen Empfehlungen: 39/58 (67.2 %); Originaloberfläche auf Chinesisch.](assets/featured-dashboard-20261101.jpg)
+
+Offizielles Dashboard der hervorgehobenen Empfehlungen: 39/58 (67.2 %); Originaloberfläche auf Chinesisch.
+
 ## Welche Analyseergebnisse werden angezeigt?
 
 - Spielausgang (1X2): Heimsieg, Unentschieden oder Auswärtssieg.
@@ -44,9 +69,9 @@ Mit der Auswertung weiterer Spiele ändern sich die Statistiken. Vergangene Erge
 
 Dies ist die deutsche Produktvorstellung. Die Website bietet Englisch und Chinesisch. Verfügbare Berichte, Mitgliedszugang und aktuelle Preise stehen auf der offiziellen Website. Für Konto- oder Servicefragen nutzen Sie deren Kontaktmöglichkeiten.
 
-## Hinweise und Inhalt dieses Repositoriums
+## Hinweise
 
-Die modellgestützten Inhalte dienen der Sportdatenforschung und Information; sie garantieren weder Ergebnisse noch Gewinne. Dieses Repositorium enthält nur öffentliche Produktinformationen und Sprachlinks. Anwendungscode, Modellimplementierung, Zugangsdaten und Kundendaten werden hier nicht verbreitet.
+Die modellgestützten Inhalte dienen der Sportdatenforschung und Information; sie garantieren weder Ergebnisse noch Gewinne.
 
 ---
 
