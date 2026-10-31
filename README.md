@@ -86,4 +86,4 @@ O 563TEB reúne análises pré-jogo de futebol, evolução das odds e análises 
 
 ## About this repository
 
-This is a public product information repository. It contains the introduction above, not the 563TEB application source code, model implementation or customer data. The application source code remains private.
+This is a public product information repository. It contains the introduction above, not the 563TEB application source code, model implementation or customer data. Application source code is not distributed through this repository.
