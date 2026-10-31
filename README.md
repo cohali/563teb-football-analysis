@@ -1,89 +1,70 @@
-# 563TEB · Football Match Analysis
+[![English](https://img.shields.io/badge/English-2563eb?style=for-the-badge)](README.md) [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-64748b?style=for-the-badge)](README.zh-CN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-64748b?style=for-the-badge)](README.es.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-64748b?style=for-the-badge)](README.pt.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-64748b?style=for-the-badge)](README.fr.md) [![Deutsch](https://img.shields.io/badge/Deutsch-64748b?style=for-the-badge)](README.de.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-64748b?style=for-the-badge)](README.ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa_Indonesia-64748b?style=for-the-badge)](README.id.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-64748b?style=for-the-badge)](README.ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-64748b?style=for-the-badge)](README.ko.md)
 
-**Follow a match from its pre-match preview to its post-match review.**
+# 563TEB · Football predictions, analysis results and match reviews
 
-563TEB is a football analysis website with English and Chinese views. Explore match previews, odds trends and post-match reviews, and use a match you already know as your starting point.
+**See what 563TEB's analysis concludes about a football match, which directions it selects, and how those selections compare with the final result.**
 
-**[Explore in English](https://563teb.com/en?utm_source=github_readme_en) · [中文官网](https://563teb.com/zh?utm_source=github_readme_zh) · [Telegram updates](https://t.me/teb5633)**
+563TEB publishes model-generated football analysis for readers who want to view the analysis results. Start with the selected directions on a match card, open the full report for the supporting context, and revisit the performance dashboard after the match. The website currently offers English and Chinese.
 
-**Read the introduction in:** [English](#what-you-can-explore) · [中文](#中文介绍) · [Español](#español) · [Português](#português) · [Français](#français) · [Deutsch](#deutsch) · [العربية](#العربية) · [Bahasa Indonesia](#bahasa-indonesia) · [日本語](#日本語) · [한국어](#한국어)
+**[View match analysis](https://563teb.com/en?utm_source=github_readme_en) · [中文官网](https://563teb.com/zh?utm_source=github_readme_en_alt) · [Telegram updates](https://t.me/teb5633)**
 
-These are translations of the product introduction. The website itself currently offers English and Chinese.
+## What analysis results can I see?
 
-## What you can explore
+Published matches can contain selections across three markets. Read each selection together with its match, market and line; the available directions vary by match.
 
-- **Before kickoff:** read the match preview and inspect the available analysis.
-- **Odds trends:** compare recorded price and line movements in context.
-- **After the match:** compare the earlier preview with the review and result.
-- **Two languages:** switch between English and Chinese on the website.
+- Match result (1X2): home win, draw or away win.
+- Asian handicap: the selected side together with its handicap line.
+- Total goals: an over or under direction together with the goal line.
+- Highlighted recommendations: filters help readers find the site's selected recommendation groups. The high-conviction group is limited to eligible home/away match-result selections.
+- Where a model probability or recommendation label is shown, it belongs to that analysis and market. It is not a guaranteed outcome.
 
-## Start with one match
+## What is inside a full match report?
 
-1. Open the website in your preferred language.
-2. Pick a team or league you already follow.
-3. Check the report time and the odds or line associated with an analysis.
-4. Return after the game to compare the preview with the review.
+The main conclusion is the starting point. The full report adds the information a reader can use to assess that conclusion. Depending on the available match data, it includes:
 
-Availability and account access are shown on the website. Football outcomes remain uncertain; analysis does not guarantee results or profit.
+- Team form, recent results and home/away records.
+- Attacking and defensive statistics and previous meetings.
+- Injuries, availability information, lineups and formations when provided.
+- Match conditions such as weather and the interval between kickoffs.
+- Recorded odds, price movements and comparisons between bookmakers.
+- A final summary of the selected directions and factors that still deserve attention.
 
-## Feedback
+Check the report time and data labels. Missing information is not the same as a confirmed fact, and the recorded odds history is a set of collected observations rather than a promise of continuous live prices.
 
-Which league do you follow? Which part of a report is hardest to understand? Feedback on clarity, navigation and language is welcome through the website's contact link.
+## Check the record after the match
 
-## 中文介绍
+The performance dashboard provides a recent seven-day view, with breakdowns by market, day and league. The match-report view lets readers inspect individual results instead of relying only on an overall percentage.
 
-563TEB 提供足球赛前分析、赔率走势和赛后复盘，支持中英文查看。
+- Compare a published selection with the corresponding result and line.
+- Separate match-result, handicap and total-goals performance.
+- Read the settled sample count and date range alongside a hit rate.
+- Distinguish the overall set from the site's highlighted recommendation groups.
 
-建议先选择一场熟悉的比赛，核对报告时间和对应盘口，再在赛后对照复盘。欢迎通过官网联系入口反馈你关注的联赛、报告阅读和使用体验。实际内容与账号权限以网站展示为准，分析不保证赛果或收益。
+Results change as matches settle. Historical hit rates do not guarantee future performance and are not a substitute for checking the underlying sample.
 
-## Español
+## How to start
 
-563TEB reúne análisis previos de partidos de fútbol, evolución de cuotas y análisis posteriores. Empieza por un partido o una liga que conozcas y compara el análisis previo con el resultado. El sitio está disponible en inglés y chino; esta sección es una presentación en español. Los análisis no garantizan resultados ni beneficios.
+1. Open the website in English or Chinese and choose a league or team you follow.
+2. On the predictions page, read the match's selected directions first. Use time, league and recommendation filters to narrow the list; favorites can help you return to a match.
+3. Open the full report and check its analysis time, market line and supporting information.
+4. After the match, use the performance dashboard and individual match review to compare the recorded analysis with the result.
 
-[Visitar el sitio en inglés](https://563teb.com/en?utm_source=github_readme_es) · [Novedades en Telegram](https://t.me/teb5633)
+## Who is it for?
 
-## Português
+Football followers who want to see published match-analysis conclusions, readers comparing different markets, and people who want to inspect both the recommendations and their subsequent results. You can begin with one familiar match rather than studying every league.
 
-O 563TEB reúne análises pré-jogo de futebol, evolução das odds e análises após as partidas. Comece por uma equipe ou liga que você já acompanha e compare a análise anterior com o resultado. O site está disponível em inglês e chinês; esta seção é uma apresentação em português. As análises não garantem resultados nem lucro.
+## Access and language
 
-[Acessar o site em inglês](https://563teb.com/en?utm_source=github_readme_pt) · [Atualizações no Telegram](https://t.me/teb5633)
+The website currently supports English and Chinese. The language tabs in this repository translate this product introduction; they do not add those languages to the website. Available reports, membership access and current prices are shown on the official site. For account, membership or website questions, use the site's contact options.
 
-## Français
+## Important context
 
-563TEB rassemble des analyses de football avant match, l’évolution des cotes et des bilans après match. Commencez par une équipe ou un championnat que vous suivez, puis comparez l’analyse initiale au résultat. Le site est disponible en anglais et en chinois ; cette section est une présentation en français. Les analyses ne garantissent aucun résultat ni gain.
-
-[Consulter le site en anglais](https://563teb.com/en?utm_source=github_readme_fr) · [Actualités sur Telegram](https://t.me/teb5633)
-
-## Deutsch
-
-563TEB verbindet Fußballanalysen vor dem Spiel, Quotenverläufe und Rückblicke nach dem Spiel. Beginnen Sie mit einem Team oder einer Liga, die Sie bereits verfolgen, und vergleichen Sie die vorherige Analyse mit dem Ergebnis. Die Website ist auf Englisch und Chinesisch verfügbar; dieser Abschnitt ist eine deutsche Produktvorstellung. Die Analysen garantieren weder Ergebnisse noch Gewinne.
-
-[Website auf Englisch öffnen](https://563teb.com/en?utm_source=github_readme_de) · [Neuigkeiten auf Telegram](https://t.me/teb5633)
-
-## العربية
-
-يجمع 563TEB بين تحليل مباريات كرة القدم قبل انطلاقها، وتغيّرات احتمالات المراهنات، والمراجعات بعد انتهاء المباريات. ابدأ بفريق أو دوري تتابعه، ثم قارن التحليل السابق بنتيجة المباراة. الموقع متاح حاليًا بالإنجليزية والصينية؛ وهذا القسم تعريف بالمنتج باللغة العربية. لا تضمن التحليلات النتائج أو الأرباح.
-
-[زيارة الموقع بالإنجليزية](https://563teb.com/en?utm_source=github_readme_ar) · [التحديثات على تيليجرام](https://t.me/teb5633)
-
-## Bahasa Indonesia
-
-563TEB menyajikan analisis sepak bola sebelum pertandingan, pergerakan odds, dan ulasan setelah pertandingan. Mulailah dari tim atau liga yang Anda ikuti, lalu bandingkan analisis awal dengan hasil pertandingan. Situs saat ini tersedia dalam bahasa Inggris dan Mandarin; bagian ini adalah pengantar produk dalam bahasa Indonesia. Analisis tidak menjamin hasil atau keuntungan.
-
-[Buka situs berbahasa Inggris](https://563teb.com/en?utm_source=github_readme_id) · [Pembaruan di Telegram](https://t.me/teb5633)
-
-## 日本語
-
-563TEBは、サッカーの試合前分析、オッズの推移、試合後の振り返りをまとめたウェブサイトです。普段から見ているチームやリーグの試合を選び、事前の分析と試合結果を比べてみてください。サイトの対応言語は現在、英語と中国語です。このセクションは日本語の製品紹介です。分析は試合結果や利益を保証するものではありません。
-
-[英語サイトを見る](https://563teb.com/en?utm_source=github_readme_ja) · [Telegramの更新情報](https://t.me/teb5633)
-
-## 한국어
-
-563TEB는 축구 경기 전 분석, 배당률 추이, 경기 후 리뷰를 제공하는 웹사이트입니다. 평소 관심 있는 팀이나 리그의 경기를 골라 사전 분석과 경기 결과를 비교해 보세요. 현재 사이트는 영어와 중국어를 지원하며, 이 부분은 한국어 제품 소개입니다. 분석은 경기 결과나 수익을 보장하지 않습니다.
-
-[영어 사이트 방문](https://563teb.com/en?utm_source=github_readme_ko) · [Telegram 소식](https://t.me/teb5633)
+Analysis is generated by algorithmic models for sports-data research and informational reference. It does not guarantee match outcomes, winnings or profit. Read the market, line, time, sample and uncertainty together with any recommendation.
 
 ## About this repository
 
-This is a public product information repository. It contains the introduction above, not the 563TEB application source code, model implementation or customer data. Application source code is not distributed through this repository.
+This repository contains public product introductions and language-navigation links. It does not distribute the application source code, model implementation, credentials or customer data. Use the official website to view the analysis results.
+
+---
+
+[![English](https://img.shields.io/badge/English-2563eb?style=for-the-badge)](README.md) [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-64748b?style=for-the-badge)](README.zh-CN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-64748b?style=for-the-badge)](README.es.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-64748b?style=for-the-badge)](README.pt.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-64748b?style=for-the-badge)](README.fr.md) [![Deutsch](https://img.shields.io/badge/Deutsch-64748b?style=for-the-badge)](README.de.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-64748b?style=for-the-badge)](README.ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa_Indonesia-64748b?style=for-the-badge)](README.id.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-64748b?style=for-the-badge)](README.ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-64748b?style=for-the-badge)](README.ko.md)

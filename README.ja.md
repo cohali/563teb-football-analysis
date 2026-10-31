@@ -1,0 +1,53 @@
+[![English](https://img.shields.io/badge/English-64748b?style=for-the-badge)](README.md) [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-64748b?style=for-the-badge)](README.zh-CN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-64748b?style=for-the-badge)](README.es.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-64748b?style=for-the-badge)](README.pt.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-64748b?style=for-the-badge)](README.fr.md) [![Deutsch](https://img.shields.io/badge/Deutsch-64748b?style=for-the-badge)](README.de.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-64748b?style=for-the-badge)](README.ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa_Indonesia-64748b?style=for-the-badge)](README.id.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-2563eb?style=for-the-badge)](README.ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-64748b?style=for-the-badge)](README.ko.md)
+
+# 563TEB · サッカーの予測・分析結果と試合後の振り返り
+
+**563TEBの分析がどのような結論を出し、どの方向を選んだのかを確認し、試合後に実際の結果と比較できます。**
+
+563TEBはモデルによるサッカー分析を公開するウェブサイトです。まず試合カードの選択内容を確認し、詳しい背景は完全版レポートで読み、試合後は成績画面で結果を振り返れます。現在のサイト対応言語は英語と中国語です。
+
+**[英語で試合分析を見る](https://563teb.com/en?utm_source=github_readme_ja) · [中国語サイト](https://563teb.com/zh?utm_source=github_readme_ja_alt) · [Telegramの更新情報](https://t.me/teb5633)**
+
+## どのような分析結果を見られますか？
+
+- 試合結果（1X2）：ホーム勝利・引き分け・アウェー勝利の方向。
+- アジアンハンディキャップ：選択されたチーム側と対応するハンディキャップ。
+- 合計得点：オーバーまたはアンダーと、その基準となる得点ライン。
+- 注目の推奨グループや、表示されている場合のモデル確率。
+
+公開される選択内容は試合ごとに異なります。確率やマークは結果を保証するものではありません。
+
+## 完全版レポートに含まれる内容
+
+利用可能なデータに応じて、直近の調子と試合結果、ホーム・アウェー成績、攻撃・守備の統計、過去の対戦、負傷や出場状況、先発メンバーを確認できます。試合条件、記録されたオッズ、各社比較、採用された方向と注意点の要約も掲載される場合があります。
+
+レポートの時刻とデータの注記を確認してください。オッズ履歴は実際に収集された観測記録であり、途切れのないリアルタイム配信ではありません。
+
+## 試合後に成績を確認
+
+成績画面では直近7日間を市場・日付・リーグ別に確認できます。試合ごとの振り返りでは、公開された選択とラインを実際の結果と比較できます。
+
+- 1X2・ハンディキャップ・合計得点を分けて確認。
+- 的中率だけでなく、判定済みの件数と期間も確認。
+- 全体の集計と注目の推奨グループを区別。
+
+試合の判定に伴って統計は変化します。過去の成績は将来の結果を保証しません。
+
+## 使い始める手順
+
+1. 普段から見ているチームやリーグを選びます。
+2. 試合カードの分析結果を読み、時間・リーグ・推奨グループで絞り込みます。気になる試合はお気に入りに保存できます。
+3. 完全版レポートを開き、時刻・市場・ライン・背景を確認します。
+4. 試合後に成績画面と個別の振り返りで公開分析と結果を比較します。
+
+## 利用範囲と言語
+
+このページは日本語の製品紹介です。サイトは英語と中国語に対応しています。閲覧できるレポート、会員権限、現在の料金は公式サイトをご確認ください。アカウントやサービスに関する質問はサイトの連絡先をご利用ください。
+
+## 注意事項とこのリポジトリ
+
+モデルによる分析はスポーツデータの研究と情報参照を目的とし、試合結果や利益を保証しません。このリポジトリには公開用の製品紹介と言語リンクのみを置いています。アプリのソースコード、モデルの実装、認証情報、顧客データは配布していません。
+
+---
+
+[![English](https://img.shields.io/badge/English-64748b?style=for-the-badge)](README.md) [![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-64748b?style=for-the-badge)](README.zh-CN.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-64748b?style=for-the-badge)](README.es.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-64748b?style=for-the-badge)](README.pt.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-64748b?style=for-the-badge)](README.fr.md) [![Deutsch](https://img.shields.io/badge/Deutsch-64748b?style=for-the-badge)](README.de.md) [![العربية](https://img.shields.io/badge/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-64748b?style=for-the-badge)](README.ar.md) [![Bahasa Indonesia](https://img.shields.io/badge/Bahasa_Indonesia-64748b?style=for-the-badge)](README.id.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-2563eb?style=for-the-badge)](README.ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-64748b?style=for-the-badge)](README.ko.md)
